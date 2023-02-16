@@ -1,6 +1,6 @@
 ## Pytorch ver.
 
-<img src="./Pytorch/assets/compare.png">
+<img src="./assets/compare.png">
 
 #### Requirements
 
