@@ -1,5 +1,7 @@
 ## Pytorch ver.
 
+<img src="./Pytorch/assets/compare.png">
+
 #### Requirements
 
 PyTorch1.1+, Python3.7+, CUDA 10.2+
