@@ -1,6 +1,6 @@
 ## Pytorch ver.
 
-<img src=./assets/compare.png width=200 height=100>
+<img src=./assets/compare.png width=600 height=600>
 
 #### Requirements
 
