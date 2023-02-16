@@ -1,5 +1,9 @@
 ## Paddle ver.
 
+<div align="center">
+<img src=./assets/compare.png width=842 height=495>
+</div>
+
 #### Requirements
 
 PyTorch1.10+, Python3.6+, Paddle2.2.1+, cuda 10.1+
