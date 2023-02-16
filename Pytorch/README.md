@@ -1,6 +1,7 @@
 ## Pytorch ver.
-
+<div align="center">
 <img src=./assets/compare.png width=842 height=495>
+<div>
 
 #### Requirements
 
