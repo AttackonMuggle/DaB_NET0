@@ -1,6 +1,6 @@
 ## Read me
 
-[PyTorch](https://github.com/jinjidelinmouren/DaB_NET0/Pytorch)
+[PyTorch](https://github.com/jinjidelinmouren/DaB_NET0/Pytorch) |
 [Paddle](https://github.com/jinjidelinmouren/DaB_NET0/Paddle)
 
 This is an official codes for training and testing depth estimation model using the method described in
