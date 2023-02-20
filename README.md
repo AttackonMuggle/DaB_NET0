@@ -1,5 +1,8 @@
 ## Read me
 
+[PyTorch](https://github.com/jinjidelinmouren/DaB_NET0/Pytorch)
+[Paddle](https://github.com/jinjidelinmouren/DaB_NET0/Paddle)
+
 This is an official codes for training and testing depth estimation model using the method described in
 
 > Detaching and Boosting: Dual Engine for Scale-Invariant Self-Supervised Monocular Depth Estimation [arxiv](https://arxiv.org/abs/2210.03952)
