@@ -1,16 +1,16 @@
 ## DABnet:Detaching and Boosting: Dual Engine for Scale-Invariant Self-Supervised Monocular Depth Estimation
 
+[Paddle](https://github.com/AttackonMuggle/DaB_NET0/tree/main/Paddle)   |
 [PyTorch](https://github.com/AttackonMuggle/DaB_NET0/tree/main/Pytorch) |
-[Paddle](https://github.com/AttackonMuggle/DaB_NET0/tree/main/Paddle)
 [Paper](https://arxiv.org/abs/2210.03952v2)
 
-This is an official code for monocular self-supervised depth estimation model using the method described in
+This is the code for monocular self-supervised depth estimation model using the method described in
 
-> Detaching and Boosting: Dual Engine for Scale-Invariant Self-Supervised Monocular Depth Estimation [arxiv]([https://arxiv.org/abs/2210.03952](https://arxiv.org/abs/2210.03952v2))
+> **Detaching and Boosting: Dual Engine for Scale-Invariant Self-Supervised Monocular Depth Estimation [arxiv]([https://arxiv.org/abs/2210.03952](https://arxiv.org/abs/2210.03952v2))
 >
-> Peizhe Jiang , Wei Yang , Xiaoqing Ye , Xiao Tan , and Meng Wu
+> Peizhe Jiang , Wei Yang , Xiaoqing Ye , Xiao Tan , and Meng Wu**
 
-If you find our work useful in your research please consider citing our paper:
+If you find our work useful, please consider citing our paper:
 
 ```
 @article{jiang2022detaching,
@@ -37,7 +37,7 @@ Monocular depth estimation (MDE) in the self-supervised scenario has emerged as 
 
 
 ### Version
-We offer two versions of code base: the Paddle version and the Pytorch version, please refer to the specific folders to find the detailed instructments.
+We offer two versions of code base: the Paddle version [Paddle](https://github.com/AttackonMuggle/DaB_NET0/tree/main/Paddle) and the Pytorch version [Pytorch](https://github.com/AttackonMuggle/DaB_NET0/tree/main/Pytorch) , please refer to the specific folders to find the detailed instructments.
 
 
 ### Test for example
