@@ -1,9 +1,9 @@
-## Read me
+## DABnet
 
 [PyTorch](https://github.com/AttackonMuggle/DaB_NET0/tree/main/Pytorch) |
 [Paddle](https://github.com/AttackonMuggle/DaB_NET0/tree/main/Paddle)
 
-This is an official codes for training and testing depth estimation model using the method described in
+This is an official code for monocular self-supervised depth estimation model using the method described in
 
 > Detaching and Boosting: Dual Engine for Scale-Invariant Self-Supervised Monocular Depth Estimation [arxiv](https://arxiv.org/abs/2210.03952)
 >
